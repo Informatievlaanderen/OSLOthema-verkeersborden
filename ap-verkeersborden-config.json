@@ -1,11 +1,12 @@
 {
   "naam": "Applicatieprofiel Verkeersborden",
+  "rapport" : "",
   "verantwoordelijke_organisatie": "Agentschap Wegen en Verkeer",
   "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000098",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Vocabularium & applicatieprofielen",
-  "description_file" : "ap-verkeersborden.md",
+  "beschrijving" : "ap-verkeersborden.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Verkeersborden",
