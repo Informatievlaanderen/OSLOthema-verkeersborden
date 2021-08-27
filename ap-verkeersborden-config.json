@@ -1,12 +1,12 @@
 {
   "naam": "Applicatieprofiel Verkeersborden",
-  "rapport" : "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/verkeersborden.jsonld",
+  "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/verkeersborden.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Wegen en Verkeer",
-  "identificator_organisatie": "https://data.vlaanderen.be/doc/organisatie/OVO000098",
+  "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000098",
   "publicatiedatum": "TBD",
   "type_toepassing": "TBD",
   "categorie": "Applicatieprofiel",
-  "beschrijving" : "ap-verkeersborden.md",
+  "beschrijving": "ap-verkeersborden.md",
   "specificatiedocument": [
     {
       "naam": "Applicatieprofiel Verkeersborden",
