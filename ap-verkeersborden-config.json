@@ -3,8 +3,8 @@
   "rapport": "https://raw.githubusercontent.com/Informatievlaanderen/OSLO-Generated/test/report/reverseengineeredOnlyForContributions/verkeersborden.jsonld",
   "verantwoordelijke_organisatie": "Agentschap Wegen en Verkeer",
   "identificator_organisatie": "https://data.vlaanderen.be/id/organisatie/OVO000098",
-  "publicatiedatum": "TBD",
-  "type_toepassing": "TBD",
+  "publicatiedatum": "2020-04-23",
+  "type_toepassing": "Aanbevolen (vrijwillig)",
   "categorie": "Applicatieprofiel",
   "beschrijving": "ap-verkeersborden.md",
   "specificatiedocument": [
