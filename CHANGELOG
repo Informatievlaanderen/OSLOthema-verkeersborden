@@ -1,2 +1,5 @@
 2020-04-27
   - initiele configuratie toolchain 2.0
+2025-03-11
+  - toolchain 4 aanpassingen
+  - verwijder niet noodzakelijk package OSLO-mandaat uit EAP.
