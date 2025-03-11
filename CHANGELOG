@@ -4,3 +4,6 @@
   - toolchain 4 aanpassingen
   - verwijder niet noodzakelijk package OSLO-mandaat uit EAP.
   - init stakeholders
+  - voeg skos:Concept als expliciete klasse toe 
+  - verwijder referentie naar onbestaande parentURI https://data.vlaanderen.be/ns/openbaardomein/infrastructuur#Steun
+      Deze zou beter gekoppeld worden aan https://wegenenverkeer.data.vlaanderen.be/ns/abstracten/#Draagconstructie
